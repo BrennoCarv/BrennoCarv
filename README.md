@@ -6,7 +6,6 @@
   <img align="left" alt="Brenno's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv)
 
 <img align="right" alt="GIF" src="https://github.com/LucasCabralDevv/LucasCabralDevv/blob/main/1.gif?raw=true" width="300" height="300" />
 
@@ -19,7 +18,7 @@
 
 **Languages:** 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCabralDevv&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoCarv&theme=gotham)
 
 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BrennoCarv&show_icons=true&theme=gotham" alt="BrennoCarv" />
