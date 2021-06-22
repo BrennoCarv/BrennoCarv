@@ -1,9 +1,9 @@
-### Hey! I am Lucas, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/lucas-cabral-android/">
-  <img align="left" alt="Cabral's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+### Hey! I am Brenno, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/brenno-c-54b51a1a3/">
+  <img align="left" alt="Brenno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/m53jlw64ysng38bldm8oxeqjm">
-  <img align="left" alt="Cabral's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Brenno's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LucasCabralDevv.LucasCabralDevv)
@@ -12,15 +12,14 @@
 
 - 🔭 I’m currently working as an Android Developer intern 💻📱
 - 🌱 I’m currently learning - Unit/Ui/Di tests with Mockk, Espresso & KoinTest.
-- 👯 I’m looking to collaborate helping beginner programmers 
-- 🤔 I’m looking for help with android developer career 
-- 💬 Ask me about Java | Kotlin | Android Framework or about anything 😄
-- 📫 How to reach me: [Linkedin - @lucas-cabral-android](https://www.linkedin.com/in/lucas-cabral-android/)
-- ⚡ Amazing fact: Mobile apps are used more than websites. 😮
+- 👯 I’m looking to collaborate helping beginner programmers.
+- 🤔 I’m looking for help with Mobile developer career and Front-End.
+- 💬 Ask me about JavaScript | React Native | Front-End. 😄
+- 📫 How to reach me: [Linkedin - @Brenno-Carvalho](https://www.linkedin.com/in/brenno-c-54b51a1a3//)
 
 **Languages:** 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCabralDevv&theme=gotham)
 
 📈 My GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=LucasCabralDevv&show_icons=true&theme=gotham" alt="LucasCabralDevv" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BrennoCarv&show_icons=true&theme=gotham" alt="BrennoCarv" />
