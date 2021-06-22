@@ -7,8 +7,6 @@
 </a> 
 
 
-<img align="right" alt="GIF" src="https://github.com/LucasCabralDevv/LucasCabralDevv/blob/main/1.gif?raw=true" width="300" height="300" />
-
 - 🔭 I’m currently working as an Android Developer intern 💻📱
 - 🌱 I’m currently learning - Unit/Ui/Di tests with Mockk, Espresso & KoinTest.
 - 👯 I’m looking to collaborate helping beginner programmers.
