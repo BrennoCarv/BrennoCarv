@@ -9,8 +9,8 @@
 
 
 
-- 🔭 Currently, I'm improving my knowledge in react native (Mobile) and Front-End. 💻📱
-- 🌱 I’m currently learning - Hooks, Redux, API...
+- 🔭 Currently, I'm improving my knowledge in Front-End and React Native (Mobile). 💻📱
+- 🌱 I’m currently learning - ReactJS, Hooks, Redux, API...
 - 👯 I’m looking to collaborate helping beginner programmers.
 - 🤔 I’m looking for help with Mobile developer career and Front-End.
 - 💬 Ask me about JavaScript | React Native | Front-End. 😄
