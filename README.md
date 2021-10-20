@@ -10,10 +10,10 @@
 - 📫 How to reach me: [Linkedin - @Brenno-Carvalho](https://www.linkedin.com/in/brenno-c-54b51a1a3//)
 <a href="https://open.spotify.com/user/m53jlw64ysng38bldm8oxeqjm">
   <img align="left" alt="Brenno's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> 
+</a>
 <a href="https://www.linkedin.com/in/brenno-c-54b51a1a3/">
   <img align="left" alt="Brenno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br>
 
 
 
