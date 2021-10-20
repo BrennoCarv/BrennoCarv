@@ -15,7 +15,10 @@
   <img align="left" alt="Brenno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
+
 **Languages:** 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoCarv&theme=gotham)
 
