@@ -9,8 +9,6 @@
 - 💬 Ask me about JavaScript | React Native | Front-End. 😄
 - 📫 How to reach me: [Linkedin - @Brenno-Carvalho](https://www.linkedin.com/in/brenno-c-54b51a1a3//)
 - 🌱 More on gitlab. https://gitlab.com/BrennoCarv 😄
-  <img align="left" alt="Brenno's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://www.linkedin.com/in/brenno-c-54b51a1a3/">
   <img align="left" alt="Brenno's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br>
