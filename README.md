@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning - ReactJS, Hooks, Redux, API...
 - 👯 I’m looking to collaborate helping beginner programmers.
 - 🤔 I’m looking for help with Mobile developer career and Front-End.
-- 💬 Ask me about JavaScript | React Native | Front-End. 😄
+- 💬 Ask me about JavaScript | React JS | Front-End. 😄
 - 📫 How to reach me: [Linkedin - @Brenno-Carvalho](https://www.linkedin.com/in/brenno-c-54b51a1a3//)
 - 🌱 More on gitlab. https://gitlab.com/BrennoCarv 😄
 <a href="https://www.linkedin.com/in/brenno-c-54b51a1a3/">
