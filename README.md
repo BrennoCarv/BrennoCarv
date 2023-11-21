@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Currently, I'm improving my knowledge in Front-End and React Native (Mobile). 💻📱
+- 🔭 Currently, I'm improving my knowledge in Front-End. 💻📱
 - 🌱 I’m currently learning - ReactJS, Hooks, Redux, API...
 - 👯 I’m looking to collaborate helping beginner programmers.
 - 🤔 I’m looking for help with Mobile developer career and Front-End.
